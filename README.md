@@ -1,7 +1,7 @@
 # Taxi_Trajectory_Prediction
 
 ## Description
-This project is using LSTM model to predict taxi trajectories.
+LSTM based taxi trajectory prediction
 
 ## Key Features
 - Performed data preprocessing from Microsoft GeoLife GPS trajectory dataset
